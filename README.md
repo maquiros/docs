@@ -3,6 +3,6 @@
 All Edis docs live here.
 
 ## Sections
-- [Assessments](assessments.md)
-- [Forms](forms.md)
-- [RTI](rti.md)
+- [Assessments](assessments)
+- [Forms](forms)
+- [RTI](rti)
