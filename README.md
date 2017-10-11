@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/edisio/docs/edit/master/RE
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+This is a link to the <a href="https://github.com/edisio/docs/blob/master/rti.md#rti">RTI section</a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
