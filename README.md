@@ -6,3 +6,4 @@ All Edis docs live here.
 - [Assessments](assessments)
 - [Forms](forms)
 - [RTI](rti)
+- [Changelog](changelog)
