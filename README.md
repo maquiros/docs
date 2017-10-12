@@ -7,3 +7,4 @@ All Edis docs live here.
 - [Forms](forms)
 - [RTI](rti)
 - [Changelog](changelog)
+- [Privacy](privacy)
