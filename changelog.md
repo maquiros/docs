@@ -4,6 +4,7 @@ A breakdown of all new EDIS features, upgrades, and bug fixes by version.
 
 |Version|Release Date|
 |---|---|
+|[2.12.3](#v2_12_3)|2017-10-12|
 |[2.12.2](#v2_12_2)|2017-09-29|
 |[2.12.1](#v2_12_1)|2017-09-22|
 |[2.12](#v2_12)|2017-09-02|
@@ -30,6 +31,17 @@ A breakdown of all new EDIS features, upgrades, and bug fixes by version.
 |[1.2](#v1_2)|2013-11-14|
 |[1.1](#v1_1)|2013-10-15|
 |[1.0](#v1_0)|2013-08-30|
+
+## 2.12.3 - 2017-10-12 <a name="v2_12_3"></a>
+- Made intervention aim line visible by default.
+- Added Intervention Student Cards to intervention student listings to provide better context across multiple tabs.
+- Added flag to test sub-parts to define whether or not they should show in student profile.
+- Improved full-text search capabilities to include certain ids.
+- Added "Creator" tab for Custom Reports listing filter.
+- Improved support for Edis operators in SQL Server 2016.
+- Fixed issue with sorting in certain custom assessments.
+- Fixed issue with ordinal position of intervention progress monitoring data sources.
+- Fixed error on certain student forms breaking for certain users that are not form admins.
 
 ## 2.12.2 - 2017-09-29 <a name="v2_12_2"></a>
 - Added ability to record comments in custom assessment scores and push them to student logs.
