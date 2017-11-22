@@ -4,6 +4,7 @@ A breakdown of all new EDIS features, upgrades, and bug fixes by version.
 
 |Version|Release Date|
 |---|---|
+|[2.13](#v2_13)|2017-11-12|
 |[2.12.3](#v2_12_3)|2017-10-12|
 |[2.12.2](#v2_12_2)|2017-09-29|
 |[2.12.1](#v2_12_1)|2017-09-22|
@@ -31,6 +32,18 @@ A breakdown of all new EDIS features, upgrades, and bug fixes by version.
 |[1.2](#v1_2)|2013-11-14|
 |[1.1](#v1_1)|2013-10-15|
 |[1.0](#v1_0)|2013-08-30|
+
+## 2.13 - 2017-11-12 <a name="v2_13"></a>
+- New password workflow for parents using the FOCUS SIS.
+- Fidelity rate is now optional for intervention evaluations.
+- Improved searching performance on assessment item bank.
+- Added option to make forms "Restricted" for internal use.
+- Added sorting to Forms Listing view.
+- Added "Official" tag to forms (to be ported to other entities in a future release).
+- Intervention "Sessions", "Changes", and "Evaluations" now showing in RTI charts.
+- New Data Stories module
+- New Advanced Dashboard module
+- New Dynamic Widget Editor
 
 ## 2.12.3 - 2017-10-12 <a name="v2_12_3"></a>
 - Made intervention aim line visible by default.
